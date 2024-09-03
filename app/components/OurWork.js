@@ -28,7 +28,7 @@ const OurWork = () => {
                                 </div>
 
                                 <div className='pr-4 text-nowrap'>
-                                    <button className="btn btn-primary">Learn now!</button>
+                                    <button className="btn btn-primary text-lg">Learn now!</button>
                                 </div>
 
                             </div>
@@ -46,7 +46,7 @@ const OurWork = () => {
                                 </div>
 
                                 <div className='pr-4 text-nowrap'>
-                                    <button className="btn btn-primary">Learn now!</button>
+                                    <button className="btn btn-primary text-lg">Learn now!</button>
                                 </div>
 
                             </div>
@@ -64,7 +64,7 @@ const OurWork = () => {
                                 </div>
 
                                 <div className='pr-4 text-nowrap'>
-                                    <button className="btn btn-primary">Learn now!</button>
+                                    <button className="btn btn-primary text-lg">Learn now!</button>
                                 </div>
 
                             </div>
@@ -82,7 +82,7 @@ const OurWork = () => {
                                 </div>
 
                                 <div className='pr-4 text-nowrap'>
-                                    <button className="btn btn-primary">Learn now!</button>
+                                    <button className="btn btn-primary text-lg">Learn now!</button>
                                 </div>
 
                             </div>

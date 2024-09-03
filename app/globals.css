@@ -29,5 +29,8 @@ body {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  };
+  .paused {
+    animation-play-state: paused;
   }
 }
